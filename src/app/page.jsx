@@ -6,8 +6,8 @@ export default function Home() {
       <h1 className="text-xl font-bold text-red-900 sm:font-normal 2xl:font-bold">
         The best way to code is to learn
       </h1>
-
-
+      {/* Making an image carousel */}
+      
     </main>
   );
 }
