@@ -31,9 +31,7 @@ export default function Home() {
         <h1 className=""></h1>
         <h1 className=""></h1>
         <h1 className=""></h1>
-        <h1 className=""></h1>
-        <h1 className=""></h1>
-        <h1 className=""></h1>
+      
         
        
         
