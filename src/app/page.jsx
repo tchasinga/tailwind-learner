@@ -10,12 +10,7 @@ export default function Home() {
         The best way to code i
       </h1>
 
-      <div className="">
-      
-        
-        
-     
-      </div>
+
     </main>
   );
 }
